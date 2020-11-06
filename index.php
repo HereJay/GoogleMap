@@ -21,6 +21,9 @@
 <body>
     <h1>The Google Map API</h1>
     <div id="map"></div>
+    <div id="side_bar"></div>	
+
+	
     
 
 
